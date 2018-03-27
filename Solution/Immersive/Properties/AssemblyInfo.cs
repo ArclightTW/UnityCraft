@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Immersive")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ImmersiveLib")]
+[assembly: AssemblyDescription("A library package containing core Immersive Works code used across multiple projects")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Immersive")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("Immersive Works")]
+[assembly: AssemblyProduct("ImmersiveLib")]
+[assembly: AssemblyCopyright("Copyright © Immersive Works 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
