@@ -1,15 +1,15 @@
 # Let's Make a Voxel Engine
 ### A C# Voxel Framework
 
-[Versioning](#versioning)
-[About](#about)
-[Copyright & Licensing](#copyright--licensing)
-[Contributing](#contributing)
-[Contact](#contact)
+[Versioning](#versioning)  
+[About](#about)  
+[Copyright & Licensing](#copyright--licensing)  
+[Contributing](#contributing)  
+[Contact](#contact)  
 
 ## Versioning
 
-Unity Version: 2018.1 (released April 2018)
+Unity Version: 2018.1 (released April 2018)  
 Engine Version: Unavailable (no release)
 
 ## About
@@ -22,7 +22,8 @@ __IMPORTANT: This project is developed, principally, as a Voxel Framework.  At t
 
 The base project code is copyrighted by Tom "ArclightTW" Wright and is covered by multiple licenses.
 
-All program code, including C#, Lua, XML and JSON files, is licensed under GPL v3.0 unless otherwise specified.
+All program code, including C#, Lua, XML and JSON files, is licensed under GPL v3.0 unless otherwise specified.  
+
 All non-code assets, including artwork and sounds, are licensed under CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported) unless otherwise specified.
 
 ## Contributing
